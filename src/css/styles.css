@@ -11,8 +11,19 @@
 @import url('./animations.css');
 
 /* Sections style */
-@import url('./header.css');
-@import url('./vite-promo.css');
-@import url('./badges.css');
-@import url('./back-link.css');
-@import url('./footer.css');
+@import url('./1.header.css');
+@import url('./2.hero.css');
+@import url('./3.key.css');
+@import url('./4.video.css');
+@import url('./5.our_team.css');
+@import url('./6.reviews.css');
+@import url('./7.footer.css');
+@import url('./8.modal.css');
+
+/* .social-links .link:hover {
+  color: orange;
+}
+
+.social-links .link:active {
+  color: red;
+} */
